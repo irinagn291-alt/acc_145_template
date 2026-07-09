@@ -1,0 +1,1 @@
+PageTurner stores all data locally on your device. We do not collect personal information.

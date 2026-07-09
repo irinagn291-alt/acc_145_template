@@ -1,0 +1,3 @@
+PageTurner is your personal reading tracker. Log daily pages across bookshelves, visualize reading habits, and discover your best reading days.
+
+All data is stored locally on your device.
