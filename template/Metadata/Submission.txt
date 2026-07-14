@@ -1,0 +1,41 @@
+App Review Notes — PageTurner
+
+Thank you for reviewing PageTurner.
+
+Advertising and login
+PageTurner does not display ads and does not include ad monetization. The app does not require registration, login, account creation, or any credentials. All core features are available immediately after launch.
+
+Data and privacy
+PageTurner is a local-first reading journal. Page logs, shelf setup, preferences, and exports are stored on the device. The app does not use advertising frameworks, attribution SDKs, analytics SDKs, or third-party tracking.
+
+Guideline 2.1 — Information Needed
+
+What is the main purpose of this app?
+PageTurner helps readers log daily pages, track reading habits over time, and review progress through calendar views, charts, insights, and forecasts.
+
+Who is the intended audience?
+Readers of all ages who want a private, simple way to track pages read and build a consistent reading routine.
+
+How to review the app
+1. Open PageTurner on launch.
+2. Tap Shelf Setup and configure shelves.
+3. Log pages read for today.
+4. Explore Dashboard, Calendar, Charts, History, and Insights.
+5. Open Settings to test appearance options, CSV export, Privacy Policy, and Contact Us.
+
+No test account or special access is required.
+
+Guideline 4.3 — Design: Spam
+
+PageTurner is an original reading tracker built for daily page logging and habit review. It is not a reskin, clone, or repackaged template of another developer’s product.
+
+What makes PageTurner distinct:
+• Reading-specific workflow with daily page counts and bookshelf setup
+• Streak dashboard, agenda calendar, page-entry flow, and horizontal bar charts
+• Dedicated Insights, Best Reading Day, and Reading Forecast features
+• Original Ink design system with book-inspired colors and serif typography
+• Local-only storage with CSV export and no account requirement
+
+While other apps may track habits or books in different ways, PageTurner focuses on lightweight daily page tracking and private progress review.
+
+Please let us know if any additional information would be helpful. We appreciate your time and look forward to your continued review.

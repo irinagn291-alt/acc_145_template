@@ -1,3 +1,18 @@
-PageTurner is your personal reading tracker. Log daily pages across bookshelves, visualize reading habits, and discover your best reading days.
+PageTurner is a reading tracker for book lovers who want to build a consistent reading habit. Log pages read each day, organize by bookshelf setup, and see how your reading rhythm changes over time.
 
-All data is stored locally on your device.
+KEY FEATURES
+• Log daily pages in a few taps
+• Configure bookshelf setup to match your reading life
+• Streak-focused dashboard to keep momentum visible
+• Agenda-style calendar for day-by-day reading review
+• Page-based entry flow designed for quick logging
+• Horizontal bar charts, grouped history, and Insights
+• Best Reading Day and Reading Forecast
+• Export your reading log to CSV
+• Light, Dark, and System appearance modes
+• Optional haptic feedback
+
+PRIVATE BY DESIGN
+PageTurner stores your reading history locally on your device. No account, no cloud sync, no ads, and no tracking.
+
+Whether you are finishing one book or juggling several, PageTurner helps you stay accountable and celebrate progress.

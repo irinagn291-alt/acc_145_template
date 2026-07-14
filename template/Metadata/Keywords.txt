@@ -1,1 +1,1 @@
-reading tracker,book log,page counter,reading journal,book diary
+reading tracker,book log,pages read,reading habit,book journal,literacy,reading diary,books
